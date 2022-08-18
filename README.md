@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bajpai05
+- 👋 Hi, I’m @Aditya Bajpai
 - 👀 I’m interested in Learning coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on any coding project
 - 📫 How to reach me abajpai0504@gmail.com
 
